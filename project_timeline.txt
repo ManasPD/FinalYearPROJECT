@@ -1,0 +1,9 @@
+20-21st Jan - Design Database Structure
+22-26th Jan - Implement NFC.
+29-2nd Feb -  send encrypted data via fingerprint to server (contact Aakash)
+5-9th Feb - AES w7500
+12-16th Feb - wifi+MQTT
+19-23rd Feb - camera module w7500
+26-7th Mar - Build the server
+8-11th Mar - Settings-Notifications-RmA
+12th-15th Mar - LCD-FTP
